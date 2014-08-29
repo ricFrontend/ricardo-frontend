@@ -1,0 +1,22 @@
+{
+  "name": "portafolio",
+  "version": "0.0.1",
+  "description": "Frontend Ricardo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spaceRocker"
+  },
+  "keywords": [
+    "Frontend"
+  ],
+  "author": "Ricardo Salazar",
+  "license": "MIT",
+  "dependencies": {
+    "node-static": "^0.7.4"
+  }
+}

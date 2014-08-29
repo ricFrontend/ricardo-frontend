@@ -1,0 +1,1 @@
+Curriculum.Models.Section = Backbone.Model.extend({});
